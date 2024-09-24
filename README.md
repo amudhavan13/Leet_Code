@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amudhavan13/Leet_Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/amudhavan13/Leet_Code/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/amudhavan13/Leet_Code/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
