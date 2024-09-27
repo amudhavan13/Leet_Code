@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/amudhavan13/Leet_Code/tree/master/1755-defuse-the-bomb) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
+| [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/amudhavan13/Leet_Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/amudhavan13/Leet_Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
