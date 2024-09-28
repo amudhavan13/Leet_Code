@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/amudhavan13/Leet_Code/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/amudhavan13/Leet_Code/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -74,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/amudhavan13/Leet_Code/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/amudhavan13/Leet_Code/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
 |  |
