@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
+| [3567-convert-date-to-binary](https://github.com/amudhavan13/Leet_Code/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
+| [3567-convert-date-to-binary](https://github.com/amudhavan13/Leet_Code/tree/master/3567-convert-date-to-binary) |
 <!---LeetCode Topics End-->
