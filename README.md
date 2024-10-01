@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/amudhavan13/Leet_Code/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/amudhavan13/Leet_Code/tree/master/1755-defuse-the-bomb) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/amudhavan13/Leet_Code/tree/master/0561-array-partition) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Math
 |  |
