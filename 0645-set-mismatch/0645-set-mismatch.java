@@ -22,7 +22,7 @@ class Solution {
             if(!set.contains(i))
             {
                 a[j]=i;
-                j++;
+                
             }
         }
         return a;
