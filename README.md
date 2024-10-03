@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
+| [1694-make-sum-divisible-by-p](https://github.com/amudhavan13/Leet_Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/amudhavan13/Leet_Code/tree/master/1755-defuse-the-bomb) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/amudhavan13/Leet_Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/amudhavan13/Leet_Code/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/amudhavan13/Leet_Code/tree/master/1694-make-sum-divisible-by-p) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/amudhavan13/Leet_Code/tree/master/3447-clear-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/amudhavan13/Leet_Code/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
