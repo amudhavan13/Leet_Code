@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/amudhavan13/Leet_Code/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/amudhavan13/Leet_Code/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/amudhavan13/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
