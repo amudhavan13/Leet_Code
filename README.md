@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/amudhavan13/Leet_Code/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/amudhavan13/Leet_Code/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/amudhavan13/Leet_Code/tree/master/3567-convert-date-to-binary) |
 ## Greedy
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/amudhavan13/Leet_Code/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/amudhavan13/Leet_Code/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
