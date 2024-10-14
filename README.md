@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amudhavan13/Leet_Code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/amudhavan13/Leet_Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/amudhavan13/Leet_Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amudhavan13/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/amudhavan13/Leet_Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -163,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amudhavan13/Leet_Code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/amudhavan13/Leet_Code/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
