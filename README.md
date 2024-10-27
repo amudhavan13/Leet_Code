@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/amudhavan13/Leet_Code/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/amudhavan13/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/amudhavan13/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/amudhavan13/Leet_Code/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/amudhavan13/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Sliding Window
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/amudhavan13/Leet_Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/amudhavan13/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
