@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amudhavan13/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/amudhavan13/Leet_Code/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/amudhavan13/Leet_Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/amudhavan13/Leet_Code/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amudhavan13/Leet_Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/amudhavan13/Leet_Code/tree/master/1923-sentence-similarity-iii) |
