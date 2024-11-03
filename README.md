@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/amudhavan13/Leet_Code/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amudhavan13/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/amudhavan13/Leet_Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amudhavan13/Leet_Code/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amudhavan13/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/amudhavan13/Leet_Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/amudhavan13/Leet_Code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
