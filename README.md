@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amudhavan13/Leet_Code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amudhavan13/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/amudhavan13/Leet_Code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/amudhavan13/Leet_Code/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/amudhavan13/Leet_Code/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amudhavan13/Leet_Code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/amudhavan13/Leet_Code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/amudhavan13/Leet_Code/tree/master/0561-array-partition) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amudhavan13/Leet_Code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/amudhavan13/Leet_Code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
 | [0645-set-mismatch](https://github.com/amudhavan13/Leet_Code/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amudhavan13/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/amudhavan13/Leet_Code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Stack
 |  |
 | ------- |
