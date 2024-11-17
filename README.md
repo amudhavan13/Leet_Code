@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/amudhavan13/Leet_Code/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0932-monotonic-array](https://github.com/amudhavan13/Leet_Code/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/amudhavan13/Leet_Code/tree/master/0951-partition-array-into-disjoint-intervals) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1646-kth-missing-positive-number](https://github.com/amudhavan13/Leet_Code/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/amudhavan13/Leet_Code/tree/master/1675-magnetic-force-between-two-balls) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/amudhavan13/Leet_Code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/amudhavan13/Leet_Code/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/amudhavan13/Leet_Code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/amudhavan13/Leet_Code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/amudhavan13/Leet_Code/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/amudhavan13/Leet_Code/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/amudhavan13/Leet_Code/tree/master/0506-relative-ranks) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/amudhavan13/Leet_Code/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/amudhavan13/Leet_Code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -259,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/amudhavan13/Leet_Code/tree/master/2716-prime-subtraction-operation) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
