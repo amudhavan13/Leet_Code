@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
 | [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
 | [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/amudhavan13/Leet_Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
