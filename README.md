@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0327-count-of-range-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0327-count-of-range-sum) |
+| [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/amudhavan13/Leet_Code/tree/master/0812-rotate-string) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
