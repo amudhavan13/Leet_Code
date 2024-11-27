@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/amudhavan13/Leet_Code/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
