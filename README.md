@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/amudhavan13/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
 | [0335-self-crossing](https://github.com/amudhavan13/Leet_Code/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/amudhavan13/Leet_Code/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
 | [0645-set-mismatch](https://github.com/amudhavan13/Leet_Code/tree/master/0645-set-mismatch) |
 | [1940-maximum-xor-for-each-query](https://github.com/amudhavan13/Leet_Code/tree/master/1940-maximum-xor-for-each-query) |
