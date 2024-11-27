@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/amudhavan13/Leet_Code/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
+| [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0932-monotonic-array](https://github.com/amudhavan13/Leet_Code/tree/master/0932-monotonic-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amudhavan13/Leet_Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/amudhavan13/Leet_Code/tree/master/3447-clear-digits) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/amudhavan13/Leet_Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
+| [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amudhavan13/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/amudhavan13/Leet_Code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0327-count-of-range-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 <!---LeetCode Topics End-->
