@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
+| [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0327-count-of-range-sum) |
 | [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/amudhavan13/Leet_Code/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/amudhavan13/Leet_Code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0414-third-maximum-number) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0327-count-of-range-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0327-count-of-range-sum) |
 ## Depth-First Search
 |  |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0821-bricks-falling-when-hit](https://github.com/amudhavan13/Leet_Code/tree/master/0821-bricks-falling-when-hit) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
