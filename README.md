@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/amudhavan13/Leet_Code/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/amudhavan13/Leet_Code/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amudhavan13/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/amudhavan13/Leet_Code/tree/master/1002-maximum-width-ramp) |
