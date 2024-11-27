@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/amudhavan13/Leet_Code/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/amudhavan13/Leet_Code/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/amudhavan13/Leet_Code/tree/master/0645-set-mismatch) |
+| [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/amudhavan13/Leet_Code/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
+| [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [2716-prime-subtraction-operation](https://github.com/amudhavan13/Leet_Code/tree/master/2716-prime-subtraction-operation) |
 | [3567-convert-date-to-binary](https://github.com/amudhavan13/Leet_Code/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
+| [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amudhavan13/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
