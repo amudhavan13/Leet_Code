@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/amudhavan13/Leet_Code/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/amudhavan13/Leet_Code/tree/master/0941-sort-array-by-parity) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/amudhavan13/Leet_Code/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0963-three-equal-parts](https://github.com/amudhavan13/Leet_Code/tree/master/0963-three-equal-parts) |
 | [1002-maximum-width-ramp](https://github.com/amudhavan13/Leet_Code/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/amudhavan13/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1256-rank-transform-of-an-array) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
+| [0963-three-equal-parts](https://github.com/amudhavan13/Leet_Code/tree/master/0963-three-equal-parts) |
 | [2716-prime-subtraction-operation](https://github.com/amudhavan13/Leet_Code/tree/master/2716-prime-subtraction-operation) |
 | [3567-convert-date-to-binary](https://github.com/amudhavan13/Leet_Code/tree/master/3567-convert-date-to-binary) |
 ## Bit Manipulation
