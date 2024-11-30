@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
+| [2201-valid-arrangement-of-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/2201-valid-arrangement-of-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -399,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/amudhavan13/Leet_Code/tree/master/0218-the-skyline-problem) |
+## Graph
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
