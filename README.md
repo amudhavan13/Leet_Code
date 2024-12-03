@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/amudhavan13/Leet_Code/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amudhavan13/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/amudhavan13/Leet_Code/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/amudhavan13/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/amudhavan13/Leet_Code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/2586-longest-square-streak-in-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/amudhavan13/Leet_Code/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/amudhavan13/Leet_Code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amudhavan13/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/amudhavan13/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/amudhavan13/Leet_Code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/amudhavan13/Leet_Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amudhavan13/Leet_Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/amudhavan13/Leet_Code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amudhavan13/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/amudhavan13/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/amudhavan13/Leet_Code/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/amudhavan13/Leet_Code/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amudhavan13/Leet_Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/amudhavan13/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/amudhavan13/Leet_Code/tree/master/3447-clear-digits) |
 ## Prefix Sum
