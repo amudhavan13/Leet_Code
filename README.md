@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/amudhavan13/Leet_Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amudhavan13/Leet_Code/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amudhavan13/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/amudhavan13/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amudhavan13/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0327-count-of-range-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
