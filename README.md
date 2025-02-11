@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/amudhavan13/Leet_Code/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
