@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/amudhavan13/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/amudhavan13/Leet_Code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amudhavan13/Leet_Code/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/amudhavan13/Leet_Code/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amudhavan13/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
