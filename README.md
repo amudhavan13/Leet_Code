@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/amudhavan13/Leet_Code/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/amudhavan13/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/amudhavan13/Leet_Code/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/amudhavan13/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
 | [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/amudhavan13/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
