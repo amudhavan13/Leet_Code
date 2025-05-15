@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/amudhavan13/Leet_Code/tree/master/0087-scramble-string) |
+| [0233-number-of-digit-one](https://github.com/amudhavan13/Leet_Code/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/amudhavan13/Leet_Code/tree/master/0472-concatenated-words) |
 | [0741-cherry-pickup](https://github.com/amudhavan13/Leet_Code/tree/master/0741-cherry-pickup) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/amudhavan13/Leet_Code/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/amudhavan13/Leet_Code/tree/master/0233-number-of-digit-one) |
 | [0335-self-crossing](https://github.com/amudhavan13/Leet_Code/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [0963-three-equal-parts](https://github.com/amudhavan13/Leet_Code/tree/master/0963-three-equal-parts) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/amudhavan13/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/amudhavan13/Leet_Code/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/amudhavan13/Leet_Code/tree/master/0233-number-of-digit-one) |
 | [1197-parsing-a-boolean-expression](https://github.com/amudhavan13/Leet_Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amudhavan13/Leet_Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
