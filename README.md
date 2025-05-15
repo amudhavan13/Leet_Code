@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/amudhavan13/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/amudhavan13/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/amudhavan13/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/amudhavan13/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/amudhavan13/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/amudhavan13/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/amudhavan13/Leet_Code/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
