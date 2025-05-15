@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/amudhavan13/Leet_Code/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/amudhavan13/Leet_Code/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/amudhavan13/Leet_Code/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/amudhavan13/Leet_Code/tree/master/0472-concatenated-words) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/amudhavan13/Leet_Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/amudhavan13/Leet_Code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0472-concatenated-words](https://github.com/amudhavan13/Leet_Code/tree/master/0472-concatenated-words) |
 | [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [2201-valid-arrangement-of-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/2201-valid-arrangement-of-pairs) |
