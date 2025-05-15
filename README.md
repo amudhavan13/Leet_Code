@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/amudhavan13/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/amudhavan13/Leet_Code/tree/master/0087-scramble-string) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/amudhavan13/Leet_Code/tree/master/0472-concatenated-words) |
 | [0741-cherry-pickup](https://github.com/amudhavan13/Leet_Code/tree/master/0741-cherry-pickup) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/amudhavan13/Leet_Code/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/amudhavan13/Leet_Code/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/amudhavan13/Leet_Code/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/amudhavan13/Leet_Code/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
