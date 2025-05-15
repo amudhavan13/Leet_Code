@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/amudhavan13/Leet_Code/tree/master/1002-maximum-width-ramp) |
 | [1017-odd-even-jump](https://github.com/amudhavan13/Leet_Code/tree/master/1017-odd-even-jump) |
 | [1019-squares-of-a-sorted-array](https://github.com/amudhavan13/Leet_Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1097-stream-of-characters](https://github.com/amudhavan13/Leet_Code/tree/master/1097-stream-of-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/amudhavan13/Leet_Code/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/amudhavan13/Leet_Code/tree/master/1293-three-consecutive-odds) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/amudhavan13/Leet_Code/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amudhavan13/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1097-stream-of-characters](https://github.com/amudhavan13/Leet_Code/tree/master/1097-stream-of-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/amudhavan13/Leet_Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amudhavan13/Leet_Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/amudhavan13/Leet_Code/tree/master/1304-longest-happy-string) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/amudhavan13/Leet_Code/tree/master/0472-concatenated-words) |
+| [1097-stream-of-characters](https://github.com/amudhavan13/Leet_Code/tree/master/1097-stream-of-characters) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amudhavan13/Leet_Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
@@ -483,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amudhavan13/Leet_Code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Design
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/amudhavan13/Leet_Code/tree/master/1097-stream-of-characters) |
+## Data Stream
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/amudhavan13/Leet_Code/tree/master/1097-stream-of-characters) |
 <!---LeetCode Topics End-->
