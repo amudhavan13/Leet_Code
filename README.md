@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amudhavan13/Leet_Code/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/amudhavan13/Leet_Code/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/amudhavan13/Leet_Code/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/amudhavan13/Leet_Code/tree/master/0135-candy) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amudhavan13/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/amudhavan13/Leet_Code/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/amudhavan13/Leet_Code/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/amudhavan13/Leet_Code/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/amudhavan13/Leet_Code/tree/master/0068-text-justification) |
 | [0750-contain-virus](https://github.com/amudhavan13/Leet_Code/tree/master/0750-contain-virus) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amudhavan13/Leet_Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/amudhavan13/Leet_Code/tree/master/2232-adding-spaces-to-a-string) |
