@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/amudhavan13/Leet_Code/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/amudhavan13/Leet_Code/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/amudhavan13/Leet_Code/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/amudhavan13/Leet_Code/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0472-concatenated-words](https://github.com/amudhavan13/Leet_Code/tree/master/0472-concatenated-words) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/amudhavan13/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/amudhavan13/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/amudhavan13/Leet_Code/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/amudhavan13/Leet_Code/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
 | [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/amudhavan13/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/amudhavan13/Leet_Code/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amudhavan13/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/amudhavan13/Leet_Code/tree/master/0472-concatenated-words) |
@@ -549,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/amudhavan13/Leet_Code/tree/master/1685-stone-game-v) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
