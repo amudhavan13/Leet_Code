@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/amudhavan13/Leet_Code/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/amudhavan13/Leet_Code/tree/master/0239-sliding-window-maximum) |
+| [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/amudhavan13/Leet_Code/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/amudhavan13/Leet_Code/tree/master/0335-self-crossing) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amudhavan13/Leet_Code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/amudhavan13/Leet_Code/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amudhavan13/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0696-count-binary-substrings](https://github.com/amudhavan13/Leet_Code/tree/master/0696-count-binary-substrings) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/amudhavan13/Leet_Code/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/amudhavan13/Leet_Code/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/amudhavan13/Leet_Code/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amudhavan13/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/amudhavan13/Leet_Code/tree/master/1002-maximum-width-ramp) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/amudhavan13/Leet_Code/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/amudhavan13/Leet_Code/tree/master/1002-maximum-width-ramp) |
 ## Heap (Priority Queue)
