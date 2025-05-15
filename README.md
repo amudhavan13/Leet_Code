@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amudhavan13/Leet_Code/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/amudhavan13/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/amudhavan13/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/amudhavan13/Leet_Code/tree/master/0410-split-array-largest-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/amudhavan13/Leet_Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/amudhavan13/Leet_Code/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/amudhavan13/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/amudhavan13/Leet_Code/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/amudhavan13/Leet_Code/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/amudhavan13/Leet_Code/tree/master/0127-word-ladder) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/amudhavan13/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/amudhavan13/Leet_Code/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/amudhavan13/Leet_Code/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/amudhavan13/Leet_Code/tree/master/0330-patching-array) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/amudhavan13/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/amudhavan13/Leet_Code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/amudhavan13/Leet_Code/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/amudhavan13/Leet_Code/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
 | [1197-parsing-a-boolean-expression](https://github.com/amudhavan13/Leet_Code/tree/master/1197-parsing-a-boolean-expression) |
