@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/amudhavan13/Leet_Code/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/amudhavan13/Leet_Code/tree/master/1293-three-consecutive-odds) |
+| [1372-check-if-it-is-a-good-array](https://github.com/amudhavan13/Leet_Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amudhavan13/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/amudhavan13/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amudhavan13/Leet_Code/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/amudhavan13/Leet_Code/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [0963-three-equal-parts](https://github.com/amudhavan13/Leet_Code/tree/master/0963-three-equal-parts) |
+| [1372-check-if-it-is-a-good-array](https://github.com/amudhavan13/Leet_Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/amudhavan13/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2716-prime-subtraction-operation](https://github.com/amudhavan13/Leet_Code/tree/master/2716-prime-subtraction-operation) |
 | [3567-convert-date-to-binary](https://github.com/amudhavan13/Leet_Code/tree/master/3567-convert-date-to-binary) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/amudhavan13/Leet_Code/tree/master/1372-check-if-it-is-a-good-array) |
 | [2716-prime-subtraction-operation](https://github.com/amudhavan13/Leet_Code/tree/master/2716-prime-subtraction-operation) |
 ## Queue
 |  |
