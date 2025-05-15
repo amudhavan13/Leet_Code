@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/amudhavan13/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/amudhavan13/Leet_Code/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0212-word-search-ii) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amudhavan13/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
