@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amudhavan13/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/amudhavan13/Leet_Code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/amudhavan13/Leet_Code/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/amudhavan13/Leet_Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/amudhavan13/Leet_Code/tree/master/0149-max-points-on-a-line) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amudhavan13/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/amudhavan13/Leet_Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amudhavan13/Leet_Code/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/amudhavan13/Leet_Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/amudhavan13/Leet_Code/tree/master/0645-set-mismatch) |
