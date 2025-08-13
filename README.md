@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/amudhavan13/Leet_Code/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/amudhavan13/Leet_Code/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/amudhavan13/Leet_Code/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/amudhavan13/Leet_Code/tree/master/0335-self-crossing) |
 | [0679-24-game](https://github.com/amudhavan13/Leet_Code/tree/master/0679-24-game) |
 | [0963-three-equal-parts](https://github.com/amudhavan13/Leet_Code/tree/master/0963-three-equal-parts) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/amudhavan13/Leet_Code/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/amudhavan13/Leet_Code/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/amudhavan13/Leet_Code/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/amudhavan13/Leet_Code/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/amudhavan13/Leet_Code/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/amudhavan13/Leet_Code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
